@@ -1,0 +1,58 @@
+.logo {
+    width: 200px;
+}
+
+.nav a {
+    color: lightgray;
+}
+
+.card img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+h3,
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.admin-image {
+    width: 100px;
+}
+
+.button button {
+    padding-left: 0;
+    padding-right: 0;
+    align-items: center;
+}
+
+.button button a {
+    width: 150px;
+    align-items: center;
+}
+
+.prod-form {
+    background-color: lightgray;
+    width: 40%;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.profile_img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+
+}
+body{
+    overflow-x: hidden;
+}
+.edit-img{
+    width: 100px;
+}
